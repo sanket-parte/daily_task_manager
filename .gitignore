@@ -1,0 +1,26 @@
+# Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE-related files
+.vscode/
+*.code-workspace
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Dependency directories
+dist/
+build/
+*.egg-info/
+
+# Ignore the task data folder, if it exists
+task_data/
+
+# Ignore CSV files in the package directory
+*.csv
