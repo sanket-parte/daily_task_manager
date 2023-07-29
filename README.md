@@ -50,7 +50,7 @@ The package relies on the `tabulate` library to display tasks in a tabular forma
 
 ## Development
 
-To contribute to this project or view the source code, visit the GitHub repository: [https://github.com/sanket-parte/daily-task-manager](https://github.com/sanket-parte/daily-task-manager)
+To contribute to this project or view the source code, visit the GitHub repository: [https://github.com/sanket-parte/daily_task_manager.git](https://github.com/sanket-parte/daily_task_manager.git)
 
 ### Package Structure
 
